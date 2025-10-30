@@ -1,6 +1,6 @@
 # CAC-anemia-detection-app
 # Anemia Detection from Eye Images Using ResNet-based CNN
-### A Research Submission for the *Congressional App Challenge 2025*  
+### *Congressional App Challenge 2025*  
 **Authors:** Arshia Koul & Dhriti Ramesh  
 📍 Rock Canyon High School, Colorado, USA  
 
