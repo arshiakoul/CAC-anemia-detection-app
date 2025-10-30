@@ -1,5 +1,5 @@
 # CAC-anemia-detection-app
-# 🩸 Anemia Detection from Eye Images Using ResNet-based CNN
+# Anemia Detection from Eye Images Using ResNet-based CNN
 ### A Research Submission for the *Congressional App Challenge 2025*  
 **Authors:** Arshia Koul & Dhriti Ramesh  
 📍 Rock Canyon High School, Colorado, USA  
@@ -14,13 +14,5 @@ The goal is to provide a **non-invasive, accessible screening tool** that could 
 ---
 
 ## 💡 Motivation & Problem Statement
-During school sports activities, several students frequently felt dizzy and fatigued. Initially dismissed as dehydration due to Colorado’s altitude, further investigation revealed **undiagnosed anemia**.  
-This inspired us to explore whether **visible physiological markers**, like the redness or paleness of the lower eyelid (conjunctiva), could be analyzed by an AI model to predict anemia risk quickly and non-invasively.
-
----
-
-## 🧠 Dataset & Preprocessing
-| Component | Description |
-|------------|--------------|
-| **Primary Dataset** | [Kaggle Anemia Detection Dataset](https://www.kaggle.com/datasets) |
-| **Supplementary Data** | Simulated conj
+Fellow students, friends, family, and teachers who suffer from anemia in our community, exacerbated by Colorado's elevation and climate, inspired us to create a diagnoses tool to detect anemia earler so nobody has to experience unexplained dizziness and fatigue.
+We explored whether **visible physiological markers**, like the redness or paleness of the lower eyelid (conjunctiva), could be analyzed by an AI model to predict anemia risk quickly and non-invasively.
